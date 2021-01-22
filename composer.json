@@ -1,0 +1,16 @@
+{
+    "name": "root/packagetest",
+    "authors": [
+        {
+            "name": "hcl",
+            "email": "1328222491@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hcl\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
+
